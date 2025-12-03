@@ -1,0 +1,254 @@
+[
+    {
+        "versao": "sequencial",
+        "largura": 100,
+        "altura": 100,
+        "recursos": 1,
+        "tempo": 0.02241179999691667
+    },
+    {
+        "versao": "sequencial",
+        "largura": 200,
+        "altura": 200,
+        "recursos": 1,
+        "tempo": 0.0437582000013208
+    },
+    {
+        "versao": "sequencial",
+        "largura": 500,
+        "altura": 500,
+        "recursos": 1,
+        "tempo": 0.4040464999998221
+    },
+    {
+        "versao": "sequencial",
+        "largura": 1000,
+        "altura": 1000,
+        "recursos": 1,
+        "tempo": 2.1540644000051543
+    },
+    {
+        "versao": "paralelo",
+        "largura": 100,
+        "altura": 100,
+        "recursos": 2,
+        "tempo": 0.031237299997883383
+    },
+    {
+        "versao": "paralelo",
+        "largura": 100,
+        "altura": 100,
+        "recursos": 4,
+        "tempo": 0.05620279999857303
+    },
+    {
+        "versao": "paralelo",
+        "largura": 100,
+        "altura": 100,
+        "recursos": 8,
+        "tempo": 0.10269509999488946
+    },
+    {
+        "versao": "paralelo",
+        "largura": 100,
+        "altura": 100,
+        "recursos": 16,
+        "tempo": 0.20539429999917047
+    },
+    {
+        "versao": "paralelo",
+        "largura": 200,
+        "altura": 200,
+        "recursos": 2,
+        "tempo": 0.052961000001232605
+    },
+    {
+        "versao": "paralelo",
+        "largura": 200,
+        "altura": 200,
+        "recursos": 4,
+        "tempo": 0.07856509999692207
+    },
+    {
+        "versao": "paralelo",
+        "largura": 200,
+        "altura": 200,
+        "recursos": 8,
+        "tempo": 0.14541559999634046
+    },
+    {
+        "versao": "paralelo",
+        "largura": 200,
+        "altura": 200,
+        "recursos": 16,
+        "tempo": 0.2331311000016285
+    },
+    {
+        "versao": "paralelo",
+        "largura": 500,
+        "altura": 500,
+        "recursos": 2,
+        "tempo": 0.2936952999953064
+    },
+    {
+        "versao": "paralelo",
+        "largura": 500,
+        "altura": 500,
+        "recursos": 4,
+        "tempo": 0.1404088000053889
+    },
+    {
+        "versao": "paralelo",
+        "largura": 500,
+        "altura": 500,
+        "recursos": 8,
+        "tempo": 0.185092399995483
+    },
+    {
+        "versao": "paralelo",
+        "largura": 500,
+        "altura": 500,
+        "recursos": 16,
+        "tempo": 0.3448516000062227
+    },
+    {
+        "versao": "paralelo",
+        "largura": 1000,
+        "altura": 1000,
+        "recursos": 2,
+        "tempo": 1.360579799998959
+    },
+    {
+        "versao": "paralelo",
+        "largura": 1000,
+        "altura": 1000,
+        "recursos": 4,
+        "tempo": 1.043017099997087
+    },
+    {
+        "versao": "paralelo",
+        "largura": 1000,
+        "altura": 1000,
+        "recursos": 8,
+        "tempo": 0.5852944999933243
+    },
+    {
+        "versao": "paralelo",
+        "largura": 1000,
+        "altura": 1000,
+        "recursos": 16,
+        "tempo": 0.6177991000004113
+    },
+    {
+        "versao": "distribuido",
+        "largura": 100,
+        "altura": 100,
+        "recursos": 2,
+        "tempo": 0.02737209999759216
+    },
+    {
+        "versao": "distribuido",
+        "largura": 100,
+        "altura": 100,
+        "recursos": 4,
+        "tempo": 0.02783060000365367
+    },
+    {
+        "versao": "distribuido",
+        "largura": 100,
+        "altura": 100,
+        "recursos": 8,
+        "tempo": 0.03695049999805633
+    },
+    {
+        "versao": "distribuido",
+        "largura": 100,
+        "altura": 100,
+        "recursos": 16,
+        "tempo": 0.052005799996550195
+    },
+    {
+        "versao": "distribuido",
+        "largura": 200,
+        "altura": 200,
+        "recursos": 2,
+        "tempo": 0.06378630000108387
+    },
+    {
+        "versao": "distribuido",
+        "largura": 200,
+        "altura": 200,
+        "recursos": 4,
+        "tempo": 0.04414970000652829
+    },
+    {
+        "versao": "distribuido",
+        "largura": 200,
+        "altura": 200,
+        "recursos": 8,
+        "tempo": 0.0464300000021467
+    },
+    {
+        "versao": "distribuido",
+        "largura": 200,
+        "altura": 200,
+        "recursos": 16,
+        "tempo": 0.06071179999707965
+    },
+    {
+        "versao": "distribuido",
+        "largura": 500,
+        "altura": 500,
+        "recursos": 2,
+        "tempo": 0.6621613999959663
+    },
+    {
+        "versao": "distribuido",
+        "largura": 500,
+        "altura": 500,
+        "recursos": 4,
+        "tempo": 0.22717300000658724
+    },
+    {
+        "versao": "distribuido",
+        "largura": 500,
+        "altura": 500,
+        "recursos": 8,
+        "tempo": 0.17481069999485044
+    },
+    {
+        "versao": "distribuido",
+        "largura": 500,
+        "altura": 500,
+        "recursos": 16,
+        "tempo": 0.1698781999948551
+    },
+    {
+        "versao": "distribuido",
+        "largura": 1000,
+        "altura": 1000,
+        "recursos": 2,
+        "tempo": 2.804675400002452
+    },
+    {
+        "versao": "distribuido",
+        "largura": 1000,
+        "altura": 1000,
+        "recursos": 4,
+        "tempo": 2.030679199997394
+    },
+    {
+        "versao": "distribuido",
+        "largura": 1000,
+        "altura": 1000,
+        "recursos": 8,
+        "tempo": 1.5596020999946631
+    },
+    {
+        "versao": "distribuido",
+        "largura": 1000,
+        "altura": 1000,
+        "recursos": 16,
+        "tempo": 0.9432366000037291
+    }
+]
