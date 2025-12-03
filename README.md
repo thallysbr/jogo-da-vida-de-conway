@@ -160,7 +160,3 @@ resultados/
 O código base da lógica do Jogo da Vida foi adaptado de:
 
 > VILLARES, Alexandre. **Autômatos Celulares - Python em um contexto visual.** Disponível em: <https://abav.lugaralgum.com/material-aulas/Processing-Python-py5/automatos-celulares.html>
-
-```
-
-```
